@@ -12,41 +12,44 @@
 8. Teguh Ahmadi Zebua
 
 ## Silabus Pelatihan Web
-- Pertemuan Ke - 1 : 
-  1. Pengenalan WEB
-  2. Dasar-Dasar HTML
-- Pertemuan Ke - 2 :
-  1. Menulis HTML
-  2. Membuat Artikel Sederhana
-- Pertemuan Ke - 3 :
-  1. Tautan
-  2. Gambar
-- Pertemuan Ke - 4 :
-  1. Form
-  2. Tabel
-- Pertemuan Ke - 5 :
-  1. Mengenal CSS
-  2. Properti CSS
-- Pertemuan Ke - 6 :
-  1. Dekorasi Teks & Tabel
-- Pertemuan Ke - 7 :
-  1. Posisi
-- Pertemuan Ke - 8 :
-  1. Ujian Tengah Semester
-- Pertemuan Ke - 9 :
-  1. Display
-- Pertemuan Ke - 10 :
-  1. Mengenal Javascript
-  2. Variabel dan Fungsi
-- Pertemuan Ke - 11 :
-  1. Array
-- Pertemuan Ke - 12 :
-  1. Perulangan
-- Pertemuan Ke - 13 :
-  1. DOM & Event Handler
-- Pertemuan Ke - 14 :
-  1. Object di Javascript
-- Pertemuan Ke - 15 : 
-  1. JSON
-- Pertemuan Ke 16 : 
-  1. Ujian Akhir Semester (Projekan)
+- Pertemuan Ke - 1 (Pengenalan WEB dan Dasar-Dasar HTML)
+- Pertemuan Ke - 2 (Menulis HTML dan Membuat Artikel Sederhana)
+- Pertemuan Ke - 3 (Tautan dan Gambar)
+- Pertemuan Ke - 4 (Form dan Tabel)
+- Pertemuan Ke - 5 (Mengenal CSS dan Properti CSS)
+- Pertemuan Ke - 6 (Dekorasi Teks & Tabel)
+- Pertemuan Ke - 7 (Posisi)
+- Pertemuan Ke - 8 (Ujian Tengah Semester)
+- Pertemuan Ke - 9 (Display)
+- Pertemuan Ke - 10 (Mengenal Javascript dan Variabel dan Fungsi)
+- Pertemuan Ke - 11 (Array)
+- Pertemuan Ke - 12 (Perulangan)
+- Pertemuan Ke - 13 (DOM & Event Handler)
+- Pertemuan Ke - 14 (Object di Javascript)
+- Pertemuan Ke - 15 (JSON)
+- Pertemuan Ke 16 (Ujian Akhir Semester (Projekan))
+
+
+## Nilai Tugas Kelompok Hiruzen Sarutobi
+| No | Nama | Tugas 1 | Tugas 2 |
+| -- | ---- | ------- | ------- |
+| 1 | Aisyah Romaito Siregar | 100 | 0 |
+| 2 | Anwar Juniansyah Harahap | 0 | 0 |
+| 3 | Fadillah Aulia Mutmainah | 100 | 0 |
+| 4 | Imran Sihaloho| 100 | 0 |
+| 5 | Raja Salsabilla Annatasya | 100 | 0 |
+| 6 | Sitinurhaliza Sitanggang | 100 | 0 |
+| 7 | Susi Haryati Hutasuhut | 0 | 0 |
+| 8 | Teguh Ahmadi Zebua | 0 | 0 |
+
+## Nilai Kuis Kelompok Hiruzen Sarutobi
+| No | Nama | Kuis 1 | Kuis 2 |
+| -- | ---- | ------ | ------ |
+| 1 | Aisyah Romaito Siregar | 100 | 0 |
+| 2 | Anwar Juniansyah Harahap | 0 | 0 |
+| 3 | Fadillah Aulia Mutmainah | 100 | 0 |
+| 4 | Imran Sihaloho| 100 | 0 |
+| 5 | Raja Salsabilla Annatasya | 100 | 0 |
+| 6 | Sitinurhaliza Sitanggang | 100 | 0 |
+| 7 | Susi Haryati Hutasuhut | 0 | 0 |
+| 8 | Teguh Ahmadi Zebua | 0 | 0 |
