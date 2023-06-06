@@ -46,10 +46,10 @@
 | No | Nama | Kuis 1 | Kuis 2 |
 | -- | ---- | ------ | ------ |
 | 1 | Aisyah Romaito Siregar | 100 | 0 |
-| 2 | Anwar Juniansyah Harahap | 0 | 0 |
+| 2 | Anwar Juniansyah Harahap | 100 | 0 |
 | 3 | Fadillah Aulia Mutmainah | 100 | 0 |
 | 4 | Imran Sihaloho| 100 | 0 |
 | 5 | Raja Salsabilla Annatasya | 100 | 0 |
-| 6 | Sitinurhaliza Sitanggang | 100 | 0 |
+| 6 | Sitinurhaliza Sitanggang | 90 | 0 |
 | 7 | Susi Haryati Hutasuhut | 0 | 0 |
-| 8 | Teguh Ahmadi Zebua | 0 | 0 |
+| 8 | Teguh Ahmadi Zebua | 100 | 0 |
