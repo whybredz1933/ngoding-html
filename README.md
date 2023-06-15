@@ -34,7 +34,7 @@
 
 ## Nilai Tugas Kelompok Hiruzen Sarutobi
 
-| No  | Nama                      | Tugas 1 | Tugas 2 | Tugas 3 | Tugas 4 |
+| No  | Nama                      | Tugas 1 | Tugas 2 | Tugas 3 |
 | --- | ------------------------- | ------- | ------- | ------- |
 | 1   | Aisyah Romaito Siregar    | 100     | 100     | 100     |
 | 2   | Anwar Juniansyah Harahap  | 100     | 100     | 80      |
