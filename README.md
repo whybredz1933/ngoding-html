@@ -36,14 +36,14 @@
 
 | No  | Nama                      | Tugas 1 | Tugas 2 | Tugas 3 | Tugas 4 | Tugas 5 | Tugas 6 | Tugas 7 | UTS | Tugas 10 | Tugas 11 | Tugas 12 | Tugas 13 | Tugas 14 | Tugas 15 | UAS |
 | --- | ------------------------- | ------- | ------- | ------- |
-| 1   | Aisyah Romaito Siregar    | 100     | 100     |
-| 2   | Anwar Juniansyah Harahap  | 100     | 100     |
+| 1   | Aisyah Romaito Siregar    | 100     | 100     | 100     |
+| 2   | Anwar Juniansyah Harahap  | 100     | 100     | 80      |
 | 3   | Fadillah Aulia Mutmainah  | 100     | 100     | 100     |
-| 4   | Imran Sihaloho            | 100     | 100     |
-| 5   | Raja Salsabilla Annatasya | 100     | 100     |
-| 6   | Sitinurhaliza Sitanggang  | 100     | 100     |
-| 7   | Susi Haryati Hutasuhut    | 100     | 100     |
-| 8   | Teguh Ahmadi Zebua        | 100     | 100     |
+| 4   | Imran Sihaloho            | 100     | 100     | 100     |
+| 5   | Raja Salsabilla Annatasya | 100     | 100     | 100     |
+| 6   | Sitinurhaliza Sitanggang  | 100     | 100     | 90      |
+| 7   | Susi Haryati Hutasuhut    | 100     | 100     | 100     |
+| 8   | Teguh Ahmadi Zebua        | 100     | 100     | 100     |
 
 ## Nilai Kuis Kelompok Hiruzen Sarutobi
 | No  | Nama                      | Kuis 1 | Kuis 2 | Kuis 3 | Kuis 4 | Kuis 5 | Kuis 6 | Kuis 7 | Kuis 8 | Kuis 9 | Kuis 10 | Kuis 11 | Kuis 12 | Kuis 13 | Kuis 14 | Kuis 15 | Kuis 16 |
