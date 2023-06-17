@@ -53,6 +53,6 @@
 | 3   | Fadillah Aulia Mutmainah  | 100    | 100    | 100    | 100    |
 | 4   | Imran Sihaloho            | 100    | 100    | 100    | 100    |
 | 5   | Raja Salsabilla Annatasya | 100    | 100    | 100    | 100    |
-| 6   | Sitinurhaliza Sitanggang  | 100    | 90     | 100    |
+| 6   | Sitinurhaliza Sitanggang  | 100    | 90     | 100    | 100    |
 | 7   | Susi Haryati Hutasuhut    | 100    | 100    | 100    | 100    |
 | 8   | Teguh Ahmadi Zebua        | 100    | 100    | 100    | 100    |
