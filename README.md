@@ -34,16 +34,16 @@
 
 ## Nilai Tugas Kelompok Hiruzen Sarutobi
 
-| No  | Nama                      | Tugas 1 | Tugas 2 | Tugas 3 |
-| --- | ------------------------- | ------- | ------- | ------- |
-| 1   | Aisyah Romaito Siregar    | 100     | 100     | 100     |
-| 2   | Anwar Juniansyah Harahap  | 100     | 100     | 80      |
-| 3   | Fadillah Aulia Mutmainah  | 100     | 100     | 100     |
-| 4   | Imran Sihaloho            | 100     | 100     | 100     |
-| 5   | Raja Salsabilla Annatasya | 100     | 100     | 100     |
-| 6   | Sitinurhaliza Sitanggang  | 100     | 100     | 90      |
-| 7   | Susi Haryati Hutasuhut    | 100     | 100     | 100     |
-| 8   | Teguh Ahmadi Zebua        | 100     | 100     | 100     |
+| No  | Nama                      | Tugas 1 | Tugas 2 | Tugas 3 | Tugas 4 |
+| --- | ------------------------- | ------- | ------- | ------- | ------- |
+| 1   | Aisyah Romaito Siregar    | 100     | 100     | 100     | 100     |
+| 2   | Anwar Juniansyah Harahap  | 100     | 100     | 80      | 100     |
+| 3   | Fadillah Aulia Mutmainah  | 100     | 100     | 100     | 80      |
+| 4   | Imran Sihaloho            | 100     | 100     | 100     | 100     |
+| 5   | Raja Salsabilla Annatasya | 100     | 100     | 100     | 80      |
+| 6   | Sitinurhaliza Sitanggang  | 100     | 100     | 90      | 90      |
+| 7   | Susi Haryati Hutasuhut    | 100     | 100     | 100     | 100     |
+| 8   | Teguh Ahmadi Zebua        | 100     | 100     | 100     | 100     |
 
 ## Nilai Kuis Kelompok Hiruzen Sarutobi
 | No  | Nama                      | Kuis 1 | Kuis 2 | Kuis 3 | Kuis 4 |
